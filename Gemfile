@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '1.9.3'
+ruby '2.6.5'
 gem 'sinatra'
 gem 'twitter_oauth'
 gem 'sinatra-jsonp'
